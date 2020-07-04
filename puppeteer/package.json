@@ -1,0 +1,14 @@
+{
+  "name": "puppeteer-examples",
+  "version": "1.0.0",
+  "description": "Tutorial.tips - Puppeteer Example",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["puppeteer"],
+  "author": "Gulshan.saini@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^5.0.0"
+  }
+}
