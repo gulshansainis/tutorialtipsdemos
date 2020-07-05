@@ -5,7 +5,9 @@
   "scripts": {
     "start": "node server.js"
   },
-  "keywords": ["puppeteer"],
+  "keywords": [
+    "puppeteer"
+  ],
   "author": "Gulshan.saini@gmail.com",
   "license": "ISC",
   "dependencies": {
